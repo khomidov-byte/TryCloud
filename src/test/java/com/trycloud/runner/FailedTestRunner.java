@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         glue = "com/trycloud/step_definitions",
         features = "@target/rerun.txt"
-//                   ,  tags = "@ui"
+//                   ,  tags = "@us5"
 )
 public class FailedTestRunner {
 }
